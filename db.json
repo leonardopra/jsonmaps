@@ -19,6 +19,16 @@
       "name": "Amsterdam",
       "phone": "",
       "region": "europe"
+    },
+        {
+      "address": "Ciccio Pasticcio 34\n1082 MD, Amsterdam\nPaesi Bassi",
+      "id": "amsterdam",
+      "image": "https://lh3.googleusercontent.com/gG1zKXcSmRyYWHwUn2Z0MITpdqwb52RAEp3uthG2J5Xl-4_Wz7_WmoM6T_TBg6Ut3L1eF-8XENO10sxVIFdQHilj8iRG29wROpSoug",
+      "lat": 40.7418951,
+      "lng":-73.989308,
+      "name": "New York",
+      "phone": "",
+      "region": "USA"
     }
   ]
 }
